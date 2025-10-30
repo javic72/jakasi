@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador de Propuesta de Videoconferencia",
+  "description": "Una aplicación para presentar una propuesta técnica de una solución de videoconferencia de manera visualmente atractiva y fácil de leer, dividida en secciones claras y concisas.",
+  "requestFramePermissions": []
+}
